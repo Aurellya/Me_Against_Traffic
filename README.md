@@ -5,9 +5,8 @@ I also added background music and sound effect to make playing exprience more fu
 ## Requirements
 - Python 3.X <br/>
   https://www.python.org/downloads/
-- Pygame <br/>  
-  <p>Windows:<br/>> py -m pip install -U pygame --user</p>
-  <p>Mac:<br/>> python3 -m pip install -U pygame --user</p>
+- Pygame 2 (Must use pygame 2!)  
+  <p>pip install pygame==2.0.0.dev2</p>
 
 ## How to Access
 - Download this repo
