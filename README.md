@@ -1,5 +1,5 @@
 # Me Against Traffic
-This is my first First Pygame. It's a simple game you’re moving a character sideways to avoid the incoming obstacle which is a car. 
+This is my first First Pygame. It's a simple game where a player need to move a character sideways to avoid the incoming obstacle which is a car. 
 I also added background music and sound effect to make playing exprience more fun. Enjoy!
 
 ## Requirements
